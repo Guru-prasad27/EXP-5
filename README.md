@@ -31,7 +31,19 @@ OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
-V-I & REGULATION CHARACTERISTICS:
+# Line Regulation:
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/c082f594-a02a-4596-890b-9accc619325c" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-13 084421" src="https://github.com/user-attachments/assets/135c39e6-b74b-426c-bba7-1f80fa03319a" />
+
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/7fb7e709-ec7b-4055-9f5f-3ec897f626ce" />
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/83736ac4-c333-4a96-9d56-984304b46950" />
+
+# Load Regulation:
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/3785845a-0e52-4bc6-b58a-9fb93cbbc597" />
+<img width="1029" height="505" alt="Screenshot 2026-03-13 085545" src="https://github.com/user-attachments/assets/ded01b14-ae4a-4a6e-9325-9d2797f33c30" />
+
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/dcaedd87-e2a2-4f80-91a1-cfe94cd02a39" />
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/dd1a0851-0345-4ee1-9a1b-5fe34533b84c" />
 
 PRECAUTIONS:
 
